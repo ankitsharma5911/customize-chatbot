@@ -1,4 +1,5 @@
 groq 
+ipykernel
 langchain_community 
 qdrant_client 
 langchain_groq 
